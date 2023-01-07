@@ -70,7 +70,7 @@ public class rcb_tests  {
 	public static Object[] getdata() throws FileNotFoundException, IOException, ParseException
 	{
 		JSONParser parser=new JSONParser();
-		Object obj=parser.parse(new FileReader("user.dir"+"\\src\\test\\resources\\rcb.json"));
+		Object obj=parser.parse(new FileReader(System.getProperty("user.dir")+"\\src\\test\\resources\\rcb.json"));
 		JSONObject object=(JSONObject) obj;
 		
 		JSONArray array=(JSONArray) object.get("player");
