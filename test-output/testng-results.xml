@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T09:55:16Z" name="Suite" finished-at="2023-01-07T09:55:16Z" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T09:55:16Z" name="Test" finished-at="2023-01-07T09:55:16Z" duration-ms="87">
+      <class name="testcases.rcb_tests">
+        <test-method signature="count_of_foreign_player(org.json.simple.JSONArray)[pri:0, instance:testcases.rcb_tests@4fbe37eb]" started-at="2023-01-07T09:55:16Z" name="count_of_foreign_player" data-provider="getdata" finished-at="2023-01-07T09:55:16Z" duration-ms="22" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[{"country":"South Africa","role":"Batsman","name":"Faf Du Plessis","price-in-crores":"7"},{"country":"India","role":"Batsman","name":"Virat Kohli","price-in-crores":"15"},{"country":"Australia","role":"Batsman","name":"Glenn Maxwell","price-in-crores":"11"},{"country":"India","role":"Bowler","name":"Mohammad Siraj","price-in-crores":"7"},{"country":"India","role":"Bowler","name":"Harshal Patel","price-in-crores":"10.75"},{"country":"Srilanka","role":"Bowler","name":"Wanindu Hasaranga","price-in-crores":"10.75"},{"country":"India","role":"Wicket-keeper","name":"Dinesh Karthik","price-in-crores":"5.5"},{"country":"India","role":"All-Rounder","name":"Shahbaz Ahmed","price-in-crores":"2.4"},{"country":"India","role":"Batsman","name":"Rajat Patidar","price-in-crores":"0.20"},{"country":"Australia","role":"Bowler","name":"Josh Hazlewood","price-in-crores":"7.75"},{"country":"India","role":"Bowler","name":"Mahipal Lomror","price-in-crores":"7.75"}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- count_of_foreign_player -->
+        <test-method signature="count_of_wicket_keeper(org.json.simple.JSONArray)[pri:0, instance:testcases.rcb_tests@4fbe37eb]" started-at="2023-01-07T09:55:16Z" name="count_of_wicket_keeper" data-provider="getdata" finished-at="2023-01-07T09:55:16Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[{"country":"South Africa","role":"Batsman","name":"Faf Du Plessis","price-in-crores":"7"},{"country":"India","role":"Batsman","name":"Virat Kohli","price-in-crores":"15"},{"country":"Australia","role":"Batsman","name":"Glenn Maxwell","price-in-crores":"11"},{"country":"India","role":"Bowler","name":"Mohammad Siraj","price-in-crores":"7"},{"country":"India","role":"Bowler","name":"Harshal Patel","price-in-crores":"10.75"},{"country":"Srilanka","role":"Bowler","name":"Wanindu Hasaranga","price-in-crores":"10.75"},{"country":"India","role":"Wicket-keeper","name":"Dinesh Karthik","price-in-crores":"5.5"},{"country":"India","role":"All-Rounder","name":"Shahbaz Ahmed","price-in-crores":"2.4"},{"country":"India","role":"Batsman","name":"Rajat Patidar","price-in-crores":"0.20"},{"country":"Australia","role":"Bowler","name":"Josh Hazlewood","price-in-crores":"7.75"},{"country":"India","role":"Bowler","name":"Mahipal Lomror","price-in-crores":"7.75"}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- count_of_wicket_keeper -->
+      </class> <!-- testcases.rcb_tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

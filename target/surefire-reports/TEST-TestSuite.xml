@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="1.334" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="16"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\VijayKumar B\eclipse-workspace\rcbplayers\target\test-classes;C:\Users\VijayKumar B\eclipse-workspace\rcbplayers\target\classes;C:\Users\VijayKumar B\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\VijayKumar B\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\VijayKumar B\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\VijayKumar B\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\VijayKumar B\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\VijayKumar B\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Users\VijayKumar B\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\VijayKumar B\AppData\Local\Temp\surefire17695731333082339698\surefirebooter-20230107152646968_3.jar C:\Users\VijayKumar B\AppData\Local\Temp\surefire17695731333082339698 2023-01-07T15-26-45_421-jvmRun1 surefire-20230107152646968_1tmp surefire_0-20230107152646968_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\VijayKumar B\eclipse-workspace\rcbplayers\target\test-classes;C:\Users\VijayKumar B\eclipse-workspace\rcbplayers\target\classes;C:\Users\VijayKumar B\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\VijayKumar B\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\VijayKumar B\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\VijayKumar B\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\VijayKumar B\.m2\repository\junit\junit\4.10\junit-4.10.jar;C:\Users\VijayKumar B\.m2\repository\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\VijayKumar B"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.home" value="C:\Users\VijayKumar B\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\VijayKumar B\eclipse-workspace\rcbplayers"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\VijayKumar B\AppData\Local\Temp\surefire17695731333082339698\surefirebooter-20230107152646968_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="16.0.2+7-67"/>
+    <property name="user.name" value="VijayKumar B"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\VijayKumar B\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\VIJAYK~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="16.0.2"/>
+    <property name="user.dir" value="C:\Users\VijayKumar B\eclipse-workspace\rcbplayers"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\VijayKumar B\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/VijayKumar B/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin/server;C:/Users/VijayKumar B/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\VijayKumar B\AppData\Local\Microsoft\WindowsApps;;C:\WINDOWS\system32;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="16.0.2+7-67"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="60.0"/>
+  </properties>
+  <testcase name="count_of_foreign_player[[{&quot;country&quot;:&quot;South Africa&quot;,&quot;role&quot;:&quot;Batsman&quot;,&quot;name&quot;:&quot;Faf Du Plessis&quot;,&quot;price-in-crores&quot;:&quot;7&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Batsman&quot;,&quot;name&quot;:&quot;Virat Kohli&quot;,&quot;price-in-crores&quot;:&quot;15&quot;},{&quot;country&quot;:&quot;Australia&quot;,&quot;role&quot;:&quot;Batsman&quot;,&quot;name&quot;:&quot;Glenn Maxwell&quot;,&quot;price-in-crores&quot;:&quot;11&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Mohammad Siraj&quot;,&quot;price-in-crores&quot;:&quot;7&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Harshal Patel&quot;,&quot;price-in-crores&quot;:&quot;10.75&quot;},{&quot;country&quot;:&quot;Srilanka&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Wanindu Hasaranga&quot;,&quot;price-in-crores&quot;:&quot;10.75&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Wicket-keeper&quot;,&quot;name&quot;:&quot;Dinesh Karthik&quot;,&quot;price-in-crores&quot;:&quot;5.5&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;All-Rounder&quot;,&quot;name&quot;:&quot;Shahbaz Ahmed&quot;,&quot;price-in-crores&quot;:&quot;2.4&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Batsman&quot;,&quot;name&quot;:&quot;Rajat Patidar&quot;,&quot;price-in-crores&quot;:&quot;0.20&quot;},{&quot;country&quot;:&quot;Australia&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Josh Hazlewood&quot;,&quot;price-in-crores&quot;:&quot;7.75&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Mahipal Lomror&quot;,&quot;price-in-crores&quot;:&quot;7.75&quot;}]](1)" classname="testcases.rcb_tests" time="0.01">
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+count of foreign plapers 4
+]]></system-out>
+  </testcase>
+  <testcase name="count_of_wicket_keeper[[{&quot;country&quot;:&quot;South Africa&quot;,&quot;role&quot;:&quot;Batsman&quot;,&quot;name&quot;:&quot;Faf Du Plessis&quot;,&quot;price-in-crores&quot;:&quot;7&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Batsman&quot;,&quot;name&quot;:&quot;Virat Kohli&quot;,&quot;price-in-crores&quot;:&quot;15&quot;},{&quot;country&quot;:&quot;Australia&quot;,&quot;role&quot;:&quot;Batsman&quot;,&quot;name&quot;:&quot;Glenn Maxwell&quot;,&quot;price-in-crores&quot;:&quot;11&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Mohammad Siraj&quot;,&quot;price-in-crores&quot;:&quot;7&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Harshal Patel&quot;,&quot;price-in-crores&quot;:&quot;10.75&quot;},{&quot;country&quot;:&quot;Srilanka&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Wanindu Hasaranga&quot;,&quot;price-in-crores&quot;:&quot;10.75&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Wicket-keeper&quot;,&quot;name&quot;:&quot;Dinesh Karthik&quot;,&quot;price-in-crores&quot;:&quot;5.5&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;All-Rounder&quot;,&quot;name&quot;:&quot;Shahbaz Ahmed&quot;,&quot;price-in-crores&quot;:&quot;2.4&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Batsman&quot;,&quot;name&quot;:&quot;Rajat Patidar&quot;,&quot;price-in-crores&quot;:&quot;0.20&quot;},{&quot;country&quot;:&quot;Australia&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Josh Hazlewood&quot;,&quot;price-in-crores&quot;:&quot;7.75&quot;},{&quot;country&quot;:&quot;India&quot;,&quot;role&quot;:&quot;Bowler&quot;,&quot;name&quot;:&quot;Mahipal Lomror&quot;,&quot;price-in-crores&quot;:&quot;7.75&quot;}]](1)" classname="testcases.rcb_tests" time="0.004">
+    <system-out><![CDATA[count of wicket keepers 1
+]]></system-out>
+  </testcase>
+</testsuite>
